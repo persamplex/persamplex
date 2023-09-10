@@ -12,7 +12,7 @@
 ​
 ​
 ​
-$$\Large {\mathscr{To \ \ The \ \ \color[RGB]{74, 131, 255} Moon}}$$
+$$\Large {\mathscr{To \ \ The \ \ \color[RGB]{122, 55, 189} Moon}}$$
 
 ###### $$\mathscr {And \ \ Never \ \ Back}$$
 
